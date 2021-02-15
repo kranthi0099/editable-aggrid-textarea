@@ -1,0 +1,103 @@
+{
+    "name": "WL-Jan-2021",
+    "createdDate": "02/03/2021",
+    "updateDate": "02/03/2021",
+    "tickers": [
+        {
+            "ticker": "BURL",
+            "companyName": "Burlington Stores Inc",
+            "lastBP": 230.06,
+            "price": 0,
+            "compositeRating": 98,
+            "epsRating": 45,
+            "rsRating": 79,
+            "smrRating": "C",
+            "accDisRating": "C-",
+            "grpRelRating": "A+",
+            "ibdNote": "Stock of the day",
+            "ibdLists": "IBD-50,IBD-LB",
+            "EPS Date": "02/03/2021",
+            "toGoEPS": 20,
+            "zackRank": "Buy",
+            "last3weekPricePctChange": -30,
+            "%From50D": -5,
+            "%From200D": 10,
+            "notes": [
+                {
+                    "comment": "buy @211.32",
+                    "addedTime": "02/03/2021",
+                    "noteTime": "02/03/2021"
+                },
+                {
+                    "comment": "wait for earnings or try options @21.3 for $.23",
+                    "addedTime": "02/03/2021",
+                    "noteTime": "02/03/2021"
+                }
+            ]
+        },
+        {
+            "ticker": "TSLA",
+            "companyName": "Tesla Inc",
+            "lastBP": 230.06,
+            "price": 0,
+            "compositeRating": 98,
+            "epsRating": 45,
+            "rsRating": 79,
+            "smrRating": "C",
+            "accDisRating": "C-",
+            "grpRelRating": "A+",
+            "ibdNote": "Stock of the day",
+            "ibdLists": "IBD-50,IBD-LB",
+            "EPS Date": "02/03/2021",
+            "toGoEPS": 20,
+            "zackRank": "Buy",
+            "last3weekPricePctChange": -30,
+            "%From50D": -5,
+            "%From200D": 10,
+            "notes": [
+                {
+                    "comment": "buy qwerty b@211.32",
+                    "addedTime": "02/03/2021",
+                    "noteTime": "02/03/2021"
+                },
+                {
+                    "comment": "wait for earnings or try options @21.3 for $.23",
+                    "addedTime": "02/03/2021",
+                    "noteTime": "02/03/2021"
+                }
+            ]
+        },
+        {
+            "ticker": "DXCM",
+            "companyName": "Dexcom Inc",
+            "lastBP": 230.06,
+            "price": 0,
+            "compositeRating": 98,
+            "epsRating": 45,
+            "rsRating": 79,
+            "smrRating": "C",
+            "accDisRating": "C-",
+            "grpRelRating": "A+",
+            "ibdNote": "Stock of the day",
+            "ibdLists": "IBD-50,IBD-LB",
+            "EPS Date": "02/03/2021",
+            "toGoEPS": 20,
+            "zackRank": "Buy",
+            "last3weekPricePctChange": -30,
+            "%From50D": -5,
+            "%From200D": 10,
+            "notes": [
+                {
+                    "comment": "buy @211.32",
+                    "addedTime": "02/03/2021",
+                    "noteTime": "02/03/2021"
+                },
+                {
+                    "comment": "wait for earnings or try options @21.3 for $.23",
+                    "addedTime": "02/03/2021",
+                    "noteTime": "02/03/2021"
+                }
+            ]
+        }
+    ]
+}
